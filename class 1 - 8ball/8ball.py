@@ -10,7 +10,7 @@
 import random as random
 question = ""
 answer = ""
-seq = ["It is certain.", "As I see it, yes.", "Reply hazy, try again.", "Don't count on it."]
+seq = ["It is certain.", "As I see it, yes.", "Reply hazy, try again.", "Don't count on it.", "It is decidedly so.", "Most likely.", "Ask again later.", "My reply is no."]
 
 while question != 'exit' :
     question = input("Ask me a question.")
