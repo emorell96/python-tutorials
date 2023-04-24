@@ -65,7 +65,7 @@ and u_0 = 2 for n = 0.
 
 write a function that calculates the value of this series for any n, using both an iterative approach (for or while loops) and a recursive approach.
 
-Compare there execution times.
+Compare their execution times.
 
 ## P2 Fibonacci series:
 
