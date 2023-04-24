@@ -11,6 +11,10 @@
 # 1. create a mapping between letters for the alphabet based on a fixed offset.
 # 2. use the mapping to encrypt a message (string).
 # 3. use the mapping in reverse to decrypt it.
+# 4. Make the code work with spaces, and special symbols too like '#' '$' etc... by having it not change them at first.
+# 5. Make the code cypher these special characters by simply now adding them to the initial dictionary so that they are offset as well.
+#  -> make sure that any character you forget to add to the 'alphabet' is simply passed uncyphered, i.e. not changed.
+# -> make sure this last version works with upper and lower case letters!
 
 ## 1. Map the alphabet
 
